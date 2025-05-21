@@ -13,6 +13,16 @@ I'm on a mission to become an **AI Cloud Engineer at a FAANG/MAANG company** by 
 
 ---
 
+## 🧰 Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
 ## 🎯 Career Goal
 To architect and deploy scalable AI systems in the cloud that solve real-world problems and drive impact at scale.
 
@@ -24,22 +34,31 @@ To architect and deploy scalable AI systems in the cloud that solve real-world p
   - AI & Cloud Technology
   - Data Analytics & Intelligent Tech
   - Enterprise IT Management
-- 🏅 FAANG/MAANG Cloud: Associate Cloud Engineer, Professional ML Engineer
+- 🏅 Google Cloud: Associate Cloud Engineer, Professional ML Engineer
 
 ---
 
 ## 📚 Education & Certifications (Completed)
-🎓 BBA in Management Information Systems, Minor : Information Technology – Georgia Gwinnett College (Dec 2025)
-- 📘 Undergraduate Certificates:
-  - Business Intelligence
-  
+🎓 BBA in Management Information Systems, Minor: Information Technology – Georgia Gwinnett College (Dec 2025)  
+📘 Undergraduate Certificate:
+- Business Intelligence
+
+---
+
+## 🚀 Projects (Coming Soon)
+🔸 [Battle Tabs](https://github.com/YourUsername/battletabs) – AI-driven tabbed workspace system  
+🔸 [Cloud Resume Challenge](https://github.com/YourUsername/cloud-resume-challenge) – Serverless GCP-based personal site  
+🔸 [SmartTrack AI](https://github.com/YourUsername/smarttrack-ai) – Cloud-native project tracker with NLP
+
 ---
 
 ## 🔗 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/kiavonnearevalo)  
-- [Email](mailto:kiavonnearevalo@gmail.com)  
-- [Portfolio Site](https://EndGlory.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kiavonnearevalo)  
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:kiavonnearevalo@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github)](https://EndGlory.com)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&style=flat-square)
 
 > 💬 “Discipline, data, and design — the future is in the cloud. Let’s build it together.”

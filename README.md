@@ -1,8 +1,8 @@
-# 👋 Hi, I’m [Your First Name] – Future AI Cloud Engineer
+# 👋 Hi, I’m Kay Arevalo – Future AI Cloud Engineer | Aspiring Corporate Professional
 
-### 🧠 Veteran | MSIT '26 | Python • GCP • AI/ML • Cloud Infrastructure
+### 🧠 Veteran | MSIT '26 | BBA MIS '25 | Python • GCP • AI/ML • Cloud Infrastructure
 
-I'm on a mission to become an **AI Cloud Engineer at Google** by 2027. With over 5 years of military engineering experience and a background in leadership and business ownership, I’m building a powerful skill set across software engineering, AI/ML, and cloud architecture.
+I'm on a mission to become an **AI Cloud Engineer at a FAANG/MAANG company** by 2027. With 5+ years of military engineering experience and a background in leadership and business ownership, I’m building a powerful skill set across software engineering, AI/ML, and cloud architecture.
 
 ---
 
@@ -24,14 +24,21 @@ To architect and deploy scalable AI systems in the cloud that solve real-world p
   - AI & Cloud Technology
   - Data Analytics & Intelligent Tech
   - Enterprise IT Management
-- 🏅 Google Cloud: Associate Cloud Engineer, Professional ML Engineer
+- 🏅 FAANG/MAANG Cloud: Associate Cloud Engineer, Professional ML Engineer
 
 ---
 
+## 📚 Education & Certifications (Completed)
+🎓 BBA in Management Information Systems, Minor : Information Technology – Georgia Gwinnett College (Dec 2025)
+- 📘 Undergraduate Certificates:
+  - Business Intelligence
+  
+---
+
 ## 🔗 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- [Email](mailto:your.email@example.com)  
-- [Portfolio Site](https://yourportfolio.com)
+- [LinkedIn](https://www.linkedin.com/in/kiavonnearevalo)  
+- [Email](mailto:kiavonnearevalo@gmail.com)  
+- [Portfolio Site](https://EndGlory.com)
 
 ---
 

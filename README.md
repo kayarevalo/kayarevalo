@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kay Arevalo – Future AI Cloud Engineer | Aspiring Corporate Professional
+# 👋 Hi, I’m Kay Arevalo – Future AI Director (CDAO/CAIO) | Aspiring Corporate Professional
 
 ### 🧠 Veteran | MSIT '26 | BBA MIS '25 | Python • GCP • AI/ML • Cloud Infrastructure
 

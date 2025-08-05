@@ -2,7 +2,7 @@
 
 ### 🧠 Veteran | MSIT '26 | BBA MIS '25 | Python • GCP • AI/ML • Cloud Infrastructure
 
-I'm on a mission to become an **AI Cloud Engineer at a FAANG/MAANG company** by 2027. With 5+ years of military engineering experience and a background in leadership and business ownership, I’m building a powerful skill set across software engineering, AI/ML, and cloud architecture.
+I'm on a mission to become a **Director of AI at a FAANG/MAANG company**. With 5+ years of military engineering experience and a background in leadership and business ownership, I’m building a powerful skill set across software engineering, AI/ML, and cloud architecture.
 
 ---
 

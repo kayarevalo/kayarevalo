@@ -29,6 +29,7 @@ To architect and deploy scalable AI systems in the cloud that solve real-world p
 ---
 
 ## 📚 Education & Certifications (In Progress)
+- 👩🏾‍⚕️ PhD Data Science & Analytics – Kennesaw State University (Dec 2028)
 - 🎓 MS in Information Technology – Kennesaw State University (Dec 2026)
 - 📘 Graduate Certificates:
   - AI & Cloud Technology

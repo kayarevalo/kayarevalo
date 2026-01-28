@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kay Arevalo – Impact-Driven Global Technologist!
 
-### 🧠 Veteran | PhD 28' | MSIT '26 | BBA MIS '25 | Python • GCP • AI/ML • Cloud Infrastructure
+### 🧠 Veteran | PhD 30' | MSIT '27 | BBA MIS '25 | Python • GCP • AI/ML • Cloud Infrastructure
 
 I'm on a mission to become a **Global Director of AI. With 5+ years of military engineering experience and a background in leadership and business ownership, I’m building a powerful skill set across software engineering, AI/ML, and cloud architecture.
 
@@ -29,13 +29,15 @@ To architect and deploy scalable AI systems in the cloud that solve real-world p
 ---
 
 ## 📚 Education & Certifications (In Progress)
-- 👩🏾‍⚕️ PhD Data Science & Analytics – Kennesaw State University (Dec 2028)
-- 🎓 MS in Information Technology – Kennesaw State University (Dec 2026)
+- 👩🏾‍⚕️ PhD Data Science & Analytics – Kennesaw State University (Dec 2030)
+- 🎓 MS in Information Technology – Kennesaw State University (May 2027)
 - 📘 Graduate Certificates:
   - AI & Cloud Technology
   - Data Analytics & Intelligent Tech
   - Enterprise IT Management
 - 🏅 Google Cloud: Associate Cloud Engineer, Professional ML Engineer
+- ITS Cybersecuity
+- AWS Cloud Technologies
 
 ---
 
